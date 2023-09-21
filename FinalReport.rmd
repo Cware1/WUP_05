@@ -27,6 +27,8 @@ DrugUsers
 
 I used the helper files to put the data for DrugUsers into a category. 
 The dataset appears to be a collection of cases where individuals are categorized based on various attributes such as treatment type, infection status, sexual orientation, drug usage, and gender. These attributes can be used for further analysis or to answer specific research questions depending on the context of your study.
+
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
 # Results
@@ -45,7 +47,11 @@ barchartGC(~infected + treatment,data=DrugUsers, type="percent")
 
 ```
 
+Here we created a two bar chart that compares the data. The first chart shows the total number of people in the test.
 
+On the first chart we see people on drug and more people on placebo. However, it doesn't show us very much about how effective the drug was.
+
+The second chart gives us a better understanding of the data because it gives us a percentage. Thus, per the chart, we can see that the treatment group does have a lower incidence of AIDS when compared to the Placebo group.
 
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
