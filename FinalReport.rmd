@@ -86,7 +86,7 @@ In this section we ran three inferential test. And per the results, we can clear
 
 # Discussion and Conclusion
 
-
+In conclusion, the relationship we found was between the Treatment group and the decreased rate of contracting AIDS verses the Placebo group that contracted AIDS at a much higher rate. Thus, we conclude that the treatment was in fact effective. 
 
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
