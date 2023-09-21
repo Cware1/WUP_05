@@ -64,7 +64,9 @@ rowPerc(table1)
 colPerc(table1)
 ```
 
+Per the results shown, we can see the number of people in each of the groups and the rate that they contracted AIDS. 
 
+The results also show three times as many cases of AIDS in the Placebo group compared to the treatment group.
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
